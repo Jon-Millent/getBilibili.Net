@@ -1,0 +1,10 @@
+E:\net\obj01\getBiliBili\getBiliBili\bin\Debug\getBiliBili.exe.config
+E:\net\obj01\getBiliBili\getBiliBili\bin\Debug\getBiliBili.exe
+E:\net\obj01\getBiliBili\getBiliBili\bin\Debug\getBiliBili.pdb
+E:\net\obj01\getBiliBili\getBiliBili\obj\Debug\getBiliBili.csprojResolveAssemblyReference.cache
+E:\net\obj01\getBiliBili\getBiliBili\obj\Debug\getBiliBili.Form1.resources
+E:\net\obj01\getBiliBili\getBiliBili\obj\Debug\getBiliBili.Properties.Resources.resources
+E:\net\obj01\getBiliBili\getBiliBili\obj\Debug\getBiliBili.csproj.GenerateResource.Cache
+E:\net\obj01\getBiliBili\getBiliBili\obj\Debug\getBiliBili.exe
+E:\net\obj01\getBiliBili\getBiliBili\obj\Debug\getBiliBili.pdb
+E:\net\obj01\getBiliBili\getBiliBili\obj\Debug\getBiliBili.input.resources
