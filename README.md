@@ -2,8 +2,8 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/license-MIT-green.svg">
-  <a href="https://thisummer.000webhostapp.com/Apps/getBiliBili.zip"><img src="https://img.shields.io/badge/download-733KB-yellow.svg" ></a>
-  <img src="https://img.shields.io/badge/Language-c#-blue.svg" >
+  <a href="https://thisummer.000webhostapp.com/Apps/getBiliBili.zip"><img src="https://img.shields.io/badge/download-733KB-lightgrey.svg" ></a>
+  <img src="https://img.shields.io/badge/Language-c#-yellow.svg" >
   
 </div>
 
