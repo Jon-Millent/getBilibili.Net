@@ -6,5 +6,8 @@
 </div>
 
 # getBilibili
-## 获取B站封面图
-## <a href="https://thisummer.000webhostapp.com/Apps/getBiliBili.zip">下载</a>
+**获取B站封面图的客户端APP，支持预览保存原图，绝对高清无码。**
+**<a href="https://github.com/Jon-Millent/getBilibil">WEB版本</a>i**
+
+## 使用
+**下载客户端<a href="https://thisummer.000webhostapp.com/Apps/getBiliBili.zip">下载</a>**
