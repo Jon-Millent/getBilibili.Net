@@ -11,6 +11,6 @@
 <br/>
 **<a href="https://github.com/Jon-Millent/getBilibil">WEB版本</a>**
 ## 使用
-**下载客户端<a href="https://thisummer.000webhostapp.com/Apps/getBiliBili.zip">下载</a>**
-<br/>
-**打开输入AV号即可**
+
+* 下载客户端<a href="https://thisummer.000webhostapp.com/Apps/getBiliBili.zip">下载</a>
+* 打开输入AV号即可
