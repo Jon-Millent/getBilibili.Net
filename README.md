@@ -14,5 +14,6 @@
 * <a href="https://thisummer.000webhostapp.com/Apps/getBiliBili.zip">下载客户端</a>
 * 打开输入AV号即可
 ## 链接
-* <a href="https://github.com/Jon-Millent/getBilibil">WEB版本getBilibili</a>
+* <a href="https://github.com/Jon-Millent/getBilibil">WEB版本getBilibili仓库</a>
+* <a href="https://thisummer.000webhostapp.com/bilibili/">WEB版本getBilibili地址</a>
 * <a href="thisummer.top">最上川</a>
