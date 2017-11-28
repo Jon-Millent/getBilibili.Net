@@ -13,7 +13,7 @@
 <br/>
 **<a href="https://github.com/Jon-Millent/getBilibili">WEB版本</a>**
 ## 使用
-* <a href="http://show.liluo.cc/getbilibili/getBilibili.exe">下载客户端</a>
+* <a href="http://show.liluo.cc/getbilibili/getBiliBili.exe">下载客户端</a>
 * 打开输入AV号即可
 ## 链接
 * <a href="https://github.com/Jon-Millent/getBiliBili.exe">WEB版本getBilibili仓库</a>
