@@ -12,6 +12,9 @@
 <br/>
 <br/>
 **<a href="https://github.com/Jon-Millent/getBilibili">WEB版本</a>**
+## 注意
+由于B站更改了页面渲染方式，所以目前这个不能用了。。。
+
 ## 使用
 * <a href="http://show.liluo.cc/getbilibili/getBiliBili.exe">下载客户端</a>
 * 打开输入AV号即可
